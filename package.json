@@ -27,6 +27,7 @@
     "stylus-loader": "^3.0.2",
     "typescript": "~3.5.3",
     "vue-template-compiler": "^2.6.11",
-    "babel-plugin-component": "^1.1.1"
+    "babel-plugin-component": "^1.1.1",
+    "element-theme-chalk": "^2.13.0"
   }
 }
