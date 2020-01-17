@@ -31,6 +31,10 @@
       "spaces",
       2
     ],
+    "arrow-parens": [
+      false,
+      "as-needed"
+    ],
     "interface-name": false,
     "no-consecutive-blank-lines": false,
     "object-literal-sort-keys": false,
